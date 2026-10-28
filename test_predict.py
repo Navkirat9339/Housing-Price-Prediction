@@ -1,4 +1,4 @@
-from predict import load_model, predict_house_value
+from src.predict import load_model, predict_house_value
 
 model = load_model()
 
